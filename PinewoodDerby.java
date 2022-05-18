@@ -1,6 +1,3 @@
-// Chloe Lin
-// Period 1
-// 3/10/2021
 // Pinewood Derby assignment: using the java scanner to read in a txt file
 package jansem2;
 import java.util.*;
